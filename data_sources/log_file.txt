@@ -1,0 +1,30 @@
+[2025-05-31 17:20:09] Started extraction from used_car_prices1.csv
+[2025-05-31 17:20:09] ETL process failed: [Errno 2] No such file or directory: 'used_car_prices1.csv'
+[2025-05-31 17:20:09] Started extraction from used_car_prices1.json
+[2025-05-31 17:20:09] ETL process failed: File used_car_prices1.json does not exist
+[2025-05-31 17:20:09] Started extraction from used_car_prices1.xml
+[2025-05-31 17:20:09] ETL process failed: [Errno 2] No such file or directory: 'used_car_prices1.xml'
+[2025-05-31 17:21:15] Started extraction from used_car_prices1.csv
+[2025-05-31 17:21:15] Extraction successful: 10 records loaded
+[2025-05-31 17:21:15] Transformation applied: price rounded to 2 decimals
+[2025-05-31 17:21:15] Loading successful: data saved to transformed_data.csv
+[2025-05-31 17:21:15] ETL process completed successfully
+[2025-05-31 17:21:15] Started extraction from used_car_prices1.json
+[2025-05-31 17:21:15] ETL process failed: Trailing data
+[2025-05-31 17:21:15] Started extraction from used_car_prices1.xml
+[2025-05-31 17:21:15] Extraction successful: 10 records loaded
+[2025-05-31 17:21:15] Transformation applied: price rounded to 2 decimals
+[2025-05-31 17:21:15] Loading successful: data saved to transformed_data.csv
+[2025-05-31 17:21:15] ETL process completed successfully
+[2025-05-31 17:26:15] Started extraction from used_car_prices1.csv
+[2025-05-31 17:26:15] Extraction successful: 10 records loaded
+[2025-05-31 17:26:15] Transformation applied: price rounded to 2 decimals
+[2025-05-31 17:26:15] Loading successful: data saved to transformed_data.csv
+[2025-05-31 17:26:15] ETL process completed successfully
+[2025-05-31 17:26:15] Started extraction from used_car_prices1.json
+[2025-05-31 17:26:15] ETL process failed: Trailing data
+[2025-05-31 17:26:15] Started extraction from used_car_prices1.xml
+[2025-05-31 17:26:15] Extraction successful: 10 records loaded
+[2025-05-31 17:26:15] Transformation applied: price rounded to 2 decimals
+[2025-05-31 17:26:15] Loading successful: data saved to transformed_data.csv
+[2025-05-31 17:26:15] ETL process completed successfully
